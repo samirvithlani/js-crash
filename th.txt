@@ -1,0 +1,64 @@
+HTML
+CSS
+
+
+ide -->vs code
+
+					JAVA SCRIPT
+
+
+
+            java script lanaguga  -->
+
+compiler --> 
+js engines -->
+spider monkey --> firefox
+v8 --> chrome
+chakra --> edge
+nitro --> safari
+
+java script runs on browser / client side
+WINDOW object
+
+document object DOM 
+
+document object model
+
+<script>
+.js
+inline js
+
+justfy the statement that jav script is dynmaiclly typed language
+
+
+var let const....
+
+var  >global scope
+let > block scope
+const > block scope, constant value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          

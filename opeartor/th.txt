@@ -1,0 +1,8 @@
+operators:
+arithmatic operators + , - , * ,/,%, ++,--
+assignment operators =, +=, -=, *=, /=, %=
+logical operators &&, ||, !
+relational operators <, >, <=, >=, ==, !=,===, !==
+bitwise operators &, |, ^, ~, <<, >>
+ternary operator ?:
+

@@ -1,0 +1,4 @@
+document.getelmentbyid
+document.getelmenstbyName
+document.getelmentbyTagName
+document.getelmentbyClassName
